@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"论文返修专家：审稿意见逐条拆解→回应策略→修改对照表→礼貌化学术英语润色","name":"lhg-rebuttal","source":"./"}]}
